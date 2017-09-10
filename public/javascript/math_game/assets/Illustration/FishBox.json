@@ -1,0 +1,76 @@
+{"frames": [
+
+{
+	"filename": "ElectricFish.png",
+	"frame": {"x":1,"y":142,"w":196,"h":123},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":4,"y":7,"w":196,"h":123},
+	"sourceSize": {"w":211,"h":139}
+},
+{
+	"filename": "FireFish.png",
+	"frame": {"x":214,"y":1,"w":197,"h":129},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":7,"y":5,"w":197,"h":129},
+	"sourceSize": {"w":211,"h":139}
+},
+{
+	"filename": "FishBox.png",
+	"frame": {"x":1,"y":1,"w":211,"h":139},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":211,"h":139},
+	"sourceSize": {"w":211,"h":139}
+},
+{
+	"filename": "GlowBlueFish.png",
+	"frame": {"x":214,"y":132,"w":196,"h":128},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":6,"y":5,"w":196,"h":128},
+	"sourceSize": {"w":211,"h":139}
+},
+{
+	"filename": "IceFish.png",
+	"frame": {"x":1,"y":362,"w":178,"h":97},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":16,"y":20,"w":178,"h":97},
+	"sourceSize": {"w":211,"h":139}
+},
+{
+	"filename": "MedicineFish.png",
+	"frame": {"x":1,"y":267,"w":180,"h":93},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":16,"y":23,"w":180,"h":93},
+	"sourceSize": {"w":211,"h":139}
+},
+{
+	"filename": "OrangeFish.png",
+	"frame": {"x":181,"y":362,"w":178,"h":97},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":16,"y":21,"w":178,"h":97},
+	"sourceSize": {"w":211,"h":139}
+},
+{
+	"filename": "WifiFish.png",
+	"frame": {"x":199,"y":262,"w":181,"h":98},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":15,"y":20,"w":181,"h":98},
+	"sourceSize": {"w":211,"h":139}
+}],
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "FishBox.png",
+	"format": "RGBA8888",
+	"size": {"w":412,"h":460},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:3f4a63524f3a11560b8ed4a4635acbaa:62f4356c6578807187b0482a26cd2944:a3c4e98beac262f40e0d599bd387078d$"
+}
+}

@@ -1,0 +1,76 @@
+{"frames": [
+
+{
+	"filename": "fish_rolling0000.png",
+	"frame": {"x":1,"y":1,"w":225,"h":125},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":27,"y":169,"w":225,"h":125},
+	"sourceSize": {"w":277,"h":383}
+},
+{
+	"filename": "fish_rolling0001.png",
+	"frame": {"x":228,"y":1,"w":225,"h":125},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":27,"y":110,"w":225,"h":125},
+	"sourceSize": {"w":277,"h":383}
+},
+{
+	"filename": "fish_rolling0002.png",
+	"frame": {"x":1,"y":1,"w":225,"h":125},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":27,"y":109,"w":225,"h":125},
+	"sourceSize": {"w":277,"h":383}
+},
+{
+	"filename": "fish_rolling0003.png",
+	"frame": {"x":228,"y":1,"w":225,"h":125},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":27,"y":91,"w":225,"h":125},
+	"sourceSize": {"w":277,"h":383}
+},
+{
+	"filename": "fish_rolling0004.png",
+	"frame": {"x":1,"y":1,"w":225,"h":125},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":27,"y":106,"w":225,"h":125},
+	"sourceSize": {"w":277,"h":383}
+},
+{
+	"filename": "fish_rolling0005.png",
+	"frame": {"x":228,"y":1,"w":225,"h":125},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":27,"y":122,"w":225,"h":125},
+	"sourceSize": {"w":277,"h":383}
+},
+{
+	"filename": "fish_rolling0006.png",
+	"frame": {"x":1,"y":1,"w":225,"h":125},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":27,"y":139,"w":225,"h":125},
+	"sourceSize": {"w":277,"h":383}
+},
+{
+	"filename": "fish_rolling0007.png",
+	"frame": {"x":228,"y":1,"w":225,"h":125},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":27,"y":143,"w":225,"h":125},
+	"sourceSize": {"w":277,"h":383}
+}],
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "fish_rolling.png",
+	"format": "RGBA8888",
+	"size": {"w":454,"h":127},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:66aae81cc4bb31d24a6cb540d3547f04:c10ff8e38eb6a3da8f2acf604eef0071:fe9c0492da876fd62832221e08f576d9$"
+}
+}

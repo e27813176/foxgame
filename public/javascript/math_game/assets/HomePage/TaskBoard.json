@@ -1,0 +1,44 @@
+{"frames": [
+
+{
+	"filename": "NewIcon.png",
+	"frame": {"x":1,"y":1202,"w":155,"h":71},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1345,"y":510,"w":155,"h":71},
+	"sourceSize": {"w":1600,"h":800}
+},
+{
+	"filename": "TaskBoard.png",
+	"frame": {"x":1,"y":515,"w":324,"h":488},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1257,"y":273,"w":324,"h":488},
+	"sourceSize": {"w":1600,"h":800}
+},
+{
+	"filename": "TaskBoardBtnArea.png",
+	"frame": {"x":1,"y":1005,"w":292,"h":195},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":292,"h":195},
+	"sourceSize": {"w":292,"h":195}
+},
+{
+	"filename": "TaskBoardHover.png",
+	"frame": {"x":1,"y":1,"w":354,"h":512},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1242,"y":256,"w":354,"h":512},
+	"sourceSize": {"w":1600,"h":800}
+}],
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "TaskBoard.png",
+	"format": "RGBA8888",
+	"size": {"w":356,"h":1274},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:60e9ac8d231e9e5d4cd9dd57c975d832:1f2a4774ab2d48bf71a586c61c32cfeb:ff62bcf6c6dfd96adcf9def29f33ef3c$"
+}
+}

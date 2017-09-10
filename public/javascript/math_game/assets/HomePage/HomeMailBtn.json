@@ -1,0 +1,28 @@
+{"frames": [
+
+{
+	"filename": "HomeMail.png",
+	"frame": {"x":1,"y":359,"w":3,"h":3},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":3,"h":3},
+	"sourceSize": {"w":360,"h":420}
+},
+{
+	"filename": "HomeMailHover.png",
+	"frame": {"x":1,"y":1,"w":308,"h":356},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":26,"y":32,"w":308,"h":356},
+	"sourceSize": {"w":360,"h":420}
+}],
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "HomeMailBtn.png",
+	"format": "RGBA8888",
+	"size": {"w":310,"h":363},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:363773108a396b838c025bac46f5fe2d:fa56e55af4e8eabe4556104e8faf1705:ce7f27f7c97fc418a41d91d58c6a4811$"
+}
+}

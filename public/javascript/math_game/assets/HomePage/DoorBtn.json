@@ -1,0 +1,28 @@
+{"frames": [
+
+{
+	"filename": "DoorBtn.png",
+	"frame": {"x":1,"y":240,"w":3,"h":3},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":3,"h":3},
+	"sourceSize": {"w":132,"h":237}
+},
+{
+	"filename": "DoorBtnHover.png",
+	"frame": {"x":1,"y":1,"w":132,"h":237},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":132,"h":237},
+	"sourceSize": {"w":132,"h":237}
+}],
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "DoorBtn.png",
+	"format": "RGBA8888",
+	"size": {"w":134,"h":244},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:9aa4565281c22c5de6cdaf731952924d:05614c12667e32c80eb36cd5ce49de9b:88ce6689d6f4d81af3b01b632bc05d76$"
+}
+}
